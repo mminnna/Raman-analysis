@@ -1,2 +1,2 @@
-# Raman-analysis
-This repository contains python scripts for Raman spectra preprocessing and machine learning and deep learning model training. 
+# Raman analysis
+This repository contains Python scripts for Raman spectrum preprocessing and for training machine learning and deep learning models. 
